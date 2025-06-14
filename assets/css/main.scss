@@ -1,11 +1,6 @@
----
----
-
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
- * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+/* 
+ * This file controls what is imported from /_sass 
+ * ...
  */
 
 @import "themes";
@@ -18,4 +13,15 @@
 @import "layout/tables";
 @import "layout/buttons";
 @import "layout/notices";
-@import "layout/
+@import "layout/masthead";
+@import "layout/navigation";
+@import "layout/footer";
+@import "syntax";
+@import "layout/forms";
+@import "layout/page";
+@import "layout/archive";
+@import "layout/sidebar";
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
