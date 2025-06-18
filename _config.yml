@@ -42,12 +42,13 @@ github: Shark-Vortex
 email: aketter@siue.edu
 
 authors:
-  johndoe:
+  alecketterer:
     name: Alec Ketterer
     bio: A student exploring tech, math, and passion projects
     external-image: false
     picture: assets/images/Mojo.jpg
     twitter: alecketterer
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
