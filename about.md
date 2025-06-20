@@ -4,42 +4,21 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm Alec Ketterer. I'm majoring in Applied Mathematics with a minor in Computer Science at Southern Illinois University Edwardsville (SIUE). I previously graduated from Southwestern Illinois College (SWIC) with an Associate in Science degree in 2021. I'm passionate about combing problem-solving with creativity--whether through mathematical research, web development, or designing learning tools for personal projects. One example is MathQuest, a gamified math platform I developed as a class project, which earned strong feedback. I haven't published these projects yet, but I plan to organize and upload them to GitHub once they're properly set up. If you're interested, I'm happy to share code samples or walk through my projects privately.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p></p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Coding Languages: C++, HTML, CSS, PHP, SQL, Python, and MATLAB</li>
+	<li>Frameworks & Tools: LaTeX, Git, MAMP, and Docker (basics)</li>
+	<li>Math Skills: Differential Equations, Calculus, Linear Algebra, and Discrete Mathematics (basics)</li>
+	<li>CS Skills: Programming fundamentals, basic object-oriented design, web development and simple database handling</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+
 </ul>
