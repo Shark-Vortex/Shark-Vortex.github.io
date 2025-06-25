@@ -60,10 +60,10 @@ projects: true
 read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # do you want some animations?
 animation: true
