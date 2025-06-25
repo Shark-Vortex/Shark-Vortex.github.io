@@ -31,10 +31,10 @@ permalink: /:title/
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
-instagram: https://www.instagram.com/alecketterer/
-linkedin: https://www.linkedin.com/in/alec-ketterer-72b459370/
+# instagram: myinstagram
+linkedin: 
 github: https://github.com/Shark-Vortex
-email: ajketterer@gmail.com
+# email: myemail
 
 authors:
   alecketterer:
